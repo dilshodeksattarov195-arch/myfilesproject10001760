@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cartftringify",
+        "uuid": 7226560,
+        "checksum": "jgxhpw"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
